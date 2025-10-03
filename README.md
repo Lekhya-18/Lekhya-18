@@ -1,15 +1,15 @@
 ## Hi 👋 I'm Lekhya P
 
-# 🎓 B.Tech CSE Student | 2nd Year  
-# 💻 Passionate about **DSA, C Programming & Java Development**  
-# 🌱 Learning full-stack development and improving coding skills  
-# 📫 Contact: pittalekhya.24.cse@anits.edu.in  
+ 🎓 B.Tech CSE Student | 2nd Year  
+ 💻 Passionate about **DSA, C Programming & Java Development**  
+ 🌱 Learning full-stack development and improving coding skills  
+ 📫 Contact: pittalekhya.24.cse@anits.edu.in  
 
-# ---
+---
 
 ## 🛠️ Skills
 - **Languages:** C, C++, Python, Java, JavaScript  
-- **DSA & Algorithms:** Arrays, Linked Lists, Sorting, Searching, Trees, Graphs  
+- **DSA & Algorithms**
 - **Tools:** Git, GitHub, VS Code  
 
 ---
