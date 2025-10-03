@@ -44,7 +44,7 @@
 ---
 
 ## 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/pittalekhya/)  
+- [LinkedIn](linkedin.com/in/lekhya-pitta-103274345)  
 - Email: lekhyapitta@gmail.com 
 
 ---
