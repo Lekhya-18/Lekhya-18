@@ -24,9 +24,8 @@
 - Working with **Linked Lists, Stack, Queue, Sorting & Searching, Trees, Graphs**  
 - Merging two linked lists in C
 
-### 2. [Scientific Calculator (C)](#)  
-- Console-based **calculator** with functions like sin, cos, log, power  
-- *(Upload link when available)*
+### 2. [Scientific Calculator (C)](https://github.com/Lekhya-18/Scientific-Calculator)  
+- Console-based **calculator** with functions like sin, cos, log, power etc...
 
 ### 3. [GuessCraft - Number Guessing Game (Java)](https://github.com/Lekhya-18/GuessCraft-NumberGuessingGame)  
 - Strategic number guessing game with hints and levels
